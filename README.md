@@ -74,6 +74,7 @@ Framez-social-app/
 
 1. **Clone or navigate to the project directory**:
    ```bash
+   git clone https://github.com/juskins/Framez-social-media-app.git
    cd "c:\Users\User PC\Desktop\HNG 13\Framez-social-app"
    ```
 
